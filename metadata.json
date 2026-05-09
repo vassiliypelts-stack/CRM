@@ -1,0 +1,6 @@
+{
+  "name": "LeadFlow CRM",
+  "description": "A simple Kanban-style CRM for managing leads with drag-and-drop functionally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
